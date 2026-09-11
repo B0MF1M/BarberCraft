@@ -8,8 +8,8 @@ Landing Page responsiva para a **BarberCraft**, um estúdio de estética masculi
 
 ## 🔗 Links
 
-- 🌐 **Site Publicado:** [Acesse aqui via GitHub Pages](#) *(atualizar após deploy)*
-- 📁 **Repositório:** [GitHub](#) *(atualizar após deploy)*
+- 🌐 **Site Publicado:** [Acesse aqui via GitHub Pages](https://b0mf1m.github.io/BarberCraft/)
+- 📁 **Repositório:** [GitHub](https://github.com/B0MF1M/BarberCraft)
 
 ---
 
